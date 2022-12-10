@@ -12,6 +12,6 @@ Features include:
 5. Definable buttons.
 6. Lots more.
 
-Feel free to use the grid in your own projects. Although I've used it in innumerable projects over the last 10 years or more and have never needed anything more, I'm always open to collaboration on enhancemements!
+Feel free to use the grid in your own projects. Although I've used it in many projects over the last 15 years or more and have never needed anything more, I'm always open to collaboration on enhancemements!
 
 ![image](https://user-images.githubusercontent.com/120231132/206831552-b8f4315b-0b7b-4e57-99d0-923f9beb26ab.png)
