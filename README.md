@@ -5,11 +5,11 @@ ProGrid.GridDisplay(DataTable)
 
 Features include:
 
-1. Fast and easy loading, dynamic or query-based
+1. Fast and easy loading, dynamic or query-based.
 2. Built-in editing, formatting styles, and input validation options.
 3. Built-in search, multicolumn sort, copy, print, and export.
-4. Flip between vertical and horizontal display modes.
-5. Definable buttons
+4. Flip between standard horizontal grid and vertical (property) display modes.
+5. Definable buttons.
 6. Lots more.
 
 Feel free to use the grid in your own projects. Although I've used it in innumerable projects over the last 10 years or more and have never needed anything more, I'm always open to collaboration on enhancemements!
