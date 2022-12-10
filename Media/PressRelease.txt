@@ -1,0 +1,5 @@
+Surgical Grade Software has released ProGrid, an innovative grid control for Microsoft Windows applications built using the .Net 4.0 framework or higher. Designed by application developers for application developers, ProGrid is powerful yet simple to program and simple to use. With advanced features users crave, efficient ergonomic operation, and blazingly fast performance, ProGrid makes it really easy to make your users really happy.
+
+A signature feature is the ability for users to toggle freely between vertical and horizontal display modes to suit their needs. ProGrid also offers a programmable toolbar, built-in editing and formatting styles, sorting, searching, filtering, copying, exporting, and printing. 
+
+ProGrid is a single, compact DLL for easy distribution via ClickOnce or simple file copy. It’s completely written using low-level native graphics for blazingly fast speed even with extremely large data tables. Best of all, since the programming interface is so clean and simple, you don’t need to invest weeks of frustration to try it tout. Simply pass it a data table and ProGrid will handle the rest.

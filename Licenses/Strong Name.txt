@@ -1,0 +1,4 @@
+cd C:\Program Files\Microsoft SDKs\Windows\v6.0A\Bin
+sn -k "C:\ProGrid\Licenses\ProGrid.key"
+
+pw: e2ckq5kp43

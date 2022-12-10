@@ -1,0 +1,5 @@
+open ftp.smarterasp.net
+user tysongill-001 ftpplease
+send ProGrid.zip sites\progrid\media\progrid.zip
+close
+quit

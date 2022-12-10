@@ -1,0 +1,30 @@
+To: <PurchaserName>
+Email: <PurchaserEmail>
+Subject: ProGrid Registration
+
+Hello from ProGrid Support. Thanks for your recent purchase of ProGrid.
+
+Attached is your personal license file. Here's how to use it:
+
+1. Copy it to a permanent location. You only need it in one place on each machine.
+
+2. In Visual Studio, set the LicenseFolder property of each ProGrid instance to point to the folder in which your ProGridComponent.lic file is located. This will disable the nag message.
+
+Note that you do NOT need to distribute this license file with your runtimes. In fact you absolutely should not since it contains your personal information in readable format. So you definitely want to keep this confidential. Also, this is a signed license and any attempt to rename or modify it will invalidate it.
+
+
+You can get documentation and support help through our support forum. We do not distribute documentation expressly so that you will always refer to the latest documentation and info available in the forum.
+
+As a registered owners you can post to the forum. We have automatically created a user account for you so that you. Use these credentials to log into the support forum:
+
+Forum Address: http://www.surgicalgrade.net/index.php
+UserName: <UserName>
+Password: <Password>
+
+Keep in mind you can download program updates at any time you like at:
+http://www.surgicalgrade.net/try-it
+
+
+Thanks again, and enjoy using ProGrid!
+
+Regards, Your ProGrid Support Team
