@@ -1,5 +1,5 @@
 # ProGrid
-ProGrid is a high-speed native grid component with a large number of unique features. You can write a full-featured grid program with just one line of code:
+ProGrid is a high-speed grid component with a large number of unique features. It is written entirely using low level graphics primitives. Although highly customizable, ProGrid is very smart and it allows you to offer a fast, high-capacity, pro-level, full-featured grid with just one line of code:
 
 ProGrid.GridDisplay(DataTable)
 
